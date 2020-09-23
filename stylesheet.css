@@ -28,7 +28,7 @@ body {
 		background-color: #21c2df;
 	}
 	25%{
-		background-color: #11a4df;
+		background-color: #1bb7f5;
 	}
 	50%{
 		background-color: #08afbb;
@@ -42,7 +42,7 @@ body {
 }
 @-moz-keyframes peach_alive {
 	0%{
-		background-color: #257fc9;
+		background-color: #20c1f1;
 	}
 	25%{
 		background-color: #25a8db;
@@ -60,10 +60,10 @@ body {
 
 @-o-keyframes peach_alive {
 	0%{
-		background-color: #1d77aa;
+		background-color: #31c5eb;
 	}
 	25%{
-		background-color: #197dac;
+		background-color: #20bae0;
 	}
 	50%{
 		background-color: #1fbbb3;
@@ -72,7 +72,7 @@ body {
 		background-color: #1ca5aa;
 	}
 	100%{
-		background-color: #288ec9;
+		background-color: #1ecee6;
 	}
 }
 
@@ -87,7 +87,7 @@ body {
 		background-color: #23aad3;
 	}
 	75%{
-		background-color: #198bc0;
+		background-color: #3cbcf8;
 	}
 	100%{
 		background-color: #32cdd8;
@@ -96,16 +96,16 @@ body {
 
 @keyframes peach_alive {
 	0%{
-		background-color: #0b939c;
+		background-color: #11d6e4;
 	}
 	25%{
 		background-color: #1c9bac;
 	}
 	50%{
-		background-color: #28a0cf;
+		background-color: #4bc5f5;
 	}
 	75%{
-		background-color: #1f9bcc;
+		background-color: #2dbff8;
 	}
 	100%{
 		background-color: #0df0f0;
@@ -1306,7 +1306,7 @@ audio {
 
 
     /*controlling tablet width*/
-    /*@media only screen and (max-width: 720px){
+    /*@media only screen and (max-width: 600px){
     	.container {
     		-webkit-transform: scale(0.9);
     	}
