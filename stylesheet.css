@@ -1091,17 +1091,17 @@ audio {
 .balloons h2 {
 	text-transform: uppercase;
 	font-family: 'Signika', sans-serif;
-	font-size: 50px;
+	font-size: 30px;
 	color: #f81f0b;
 	text-shadow: 5px 5px 5px #FFF;
 	display: none;
 }
-/* #b1,#b11 {
+#b1,#b11 {
 	background-image: url('b1.png');
 }
 #b2,#b22 {
 	background-image: url('b2.png'); 
-}*/
+}
 #b3,#b33 {
 	background-image: url('b3.png');
 }
@@ -1255,6 +1255,7 @@ audio {
 .balloon-border{
 	position: fixed;
 	top:100%;
+	align-items: center;
 	opacity: 0.5;
 	z-index: 9999;
 }
@@ -1306,8 +1307,8 @@ audio {
 
 
     /*controlling tablet width*/
-    /*@media only screen and (max-width: 600px){
+    /*@media only screen and (max-width: 500px){
     	.container {
-    		-webkit-transform: scale(0.9);
+    		-webkit-transform: scale(0.7);
     	}
     }*/
