@@ -12,7 +12,7 @@ body {
 	display: none;
 }
 .peach {
-	background-color: #FFDAB9;
+	background-color: #22a5d8;
 	
 }
 .peach-after {
@@ -25,90 +25,90 @@ body {
 
 @-webkit-keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #21c2df;
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: #11a4df;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #08afbb;
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-color: #22b4d8;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #3398eb;
 	}
 }
 @-moz-keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #257fc9;
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: #25a8db;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #35cac3;
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-color: #19beb6;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #23c7d3;
 	}
 }
 
 @-o-keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #1d77aa;
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: #197dac;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #1fbbb3;
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-color: #1ca5aa;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #288ec9;
 	}
 }
 
 @-ms-keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #24aacc;
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: #29bfec;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #23aad3;
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-color: #198bc0;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #32cdd8;
 	}
 }
 
 @keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #0b939c;
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: #1c9bac;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #28a0cf;
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-color: #1f9bcc;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #0df0f0;
 	}
 }
 
@@ -1056,7 +1056,7 @@ audio {
 	100% {
 		-ms-transform:translate(0px,0px);
 	}
-}o
+}
 @keyframes bannar_come {
 	0%{
 		transform:translate(0px,-1000px);
@@ -1089,7 +1089,7 @@ audio {
 	text-transform: uppercase;
 	font-family: 'Signika', sans-serif;
 	font-size: 50px;
-	color: #BF4136;
+	color: #f81f0b;
 	text-shadow: 5px 5px 5px #FFF;
 	display: none;
 }
